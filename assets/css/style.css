@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 body {
     color: #39a6b2;
@@ -44,4 +45,31 @@ header nav ul li a {
     margin: 0 30px;
     font-weight: lighter;
     font-size: 22px;
+}
+
+/* apply styles to all elements in <footer> */
+footer {
+    background: #fce138;
+    width: 100%;
+    padding: 40px 35px;
+}
+
+/* apply styles to <h2> inside <footer> */
+footer h2 {
+    display: inline;
+    color: #024e76;
+    font-size: 30px;
+    margin: 0;
+}
+
+/* apply styles to <div> elements inside <footer> */
+footer div {
+    float: right;
+    line-height: 1.5;
+    text-align: right;
+}
+
+/* apply styles to <a> element inside <footer> */
+footer a {
+    color: #024e76;
 }
