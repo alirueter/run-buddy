@@ -1,11 +1,11 @@
-# Run Buddy Inc.
+# Run Buddy, Inc
 
 ## Purpose
 A website that offers fitness training services
 
 ## Built With
-*HTML
-*CSS
+* HTML
+* CSS
 
 ## Website
 https://alirueter.github.io/run-buddy/
