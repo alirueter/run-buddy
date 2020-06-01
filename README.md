@@ -12,3 +12,5 @@ https://alirueter.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Ali Rueter
+
+### ©️2019 Run Buddy, Inc
